@@ -1,6 +1,6 @@
 # TwitterBot
 
-Twitter Bot to post motivational quotes after every 10 minues 
+Twitter Bot to post motivational quotes after every 1 hour 
 
 # Install
 1. Node.js
