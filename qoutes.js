@@ -9,4 +9,5 @@ const quote = [
    }
    
    // Can add more quotes here 
-]
+];
+module.exports = quote;
