@@ -1,0 +1,22 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "Twitter_bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "Munish",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^12.2.0",
+    "needle": "^3.1.0",
+    "oauth-1.0a": "^2.2.6",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.12.3"
+  }
+}
